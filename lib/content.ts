@@ -1,5 +1,5 @@
 // Personaliza este archivo con el nombre, los mensajes y la carta final.
-export const recipientName = "";
+export const recipientName = "Mi Princesita";
 
 export const flowerMessages = [
   "Por cada sonrisa que me has regalado.",
